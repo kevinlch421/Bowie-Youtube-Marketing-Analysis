@@ -47,6 +47,7 @@ Seasonal Engagement Index
 This project was made possible with the help of the following resources and tutorials:
 - **YouTube API**: Tutorials by [Corey Schafer](https://www.youtube.com/watch?v=th5_9woFJmk) and [Thu Vu data analytics](https://www.youtube.com/watch?v=D56_Cx36oGY). Channelid by [ytlarge](https://ytlarge.com/channel-id-finder/channel/UCD5Lx-3KCYZzCzGF2A60STg)
 - **draw.io**: Tutorials by [Dr. Daniel Soper](https://www.youtube.com/watch?v=lAtCySGDD48)
+- **vscode**: env setup by [NeuralNine](https://www.youtube.com/watch?v=8dlQ_nDE7dQ)
 
   <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
